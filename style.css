@@ -57,11 +57,11 @@ body {
   border: 1px solid #dd2476;
 }
 
-.article-header {
+.linkrticle-header {
   margin-bottom: 1rem;
 }
 
-.article-header h1 {
+.linkrticle-header h1 {
   color: rgba(250, 250, 250, 0.8);
 }
 
@@ -133,21 +133,21 @@ hr {
   margin-top: 0.25rem;
 }
 
-a:link {
+.link:link {
   color: #DD2476;
 }
 
 
-a:visited {
+.link:visited {
   color: #FF512F;
 }
 
 
-a:hover {
+.link:hover {
   color: #f83d91;
 }
 
 
-a:active {
+.link:active {
   color: #f83d91;
 }
